@@ -28,5 +28,5 @@ ka.to_latin('iso9984') or ka.to_latin
 Useful resources
 ----------------
 
-http://en.wikipedia.org/wiki/Georgian_alphabet#Transcription
-http://en.wikipedia.org/wiki/ISO_9984
+* [http://en.wikipedia.org/wiki/Georgian_alphabet#Transcription](http://en.wikipedia.org/wiki/Georgian_alphabet#Transcription)
+* [http://en.wikipedia.org/wiki/ISO_9984](http://en.wikipedia.org/wiki/ISO_9984)
