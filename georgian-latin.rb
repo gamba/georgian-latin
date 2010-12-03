@@ -10,7 +10,7 @@ class String
     mapname = case map
       when 'ge_ascii'    then String::GE_ASCII
       when 'ge_national' then String::GE_NATIONAL
-      when 'ge_bgn'      then String::GE_BGN
+      when 'bgn'         then String::BGN
       when 'iso9984'     then String::ISO9984
       else String::ISO9984
     end
@@ -93,7 +93,7 @@ class String
     "h"   => [4336]  #["ჰ"]
   }
   
-  GE_BGN = {
+  BGN = {
     "a"   => [4304], #["ა"],
     "b"   => [4305], #["ბ"],
     "g"   => [4306], #["გ"],
